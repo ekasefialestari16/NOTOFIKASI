@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "245928125116",
+    "project_id": "notification-cf355",
+    "storage_bucket": "notification-cf355.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245928125116:android:5749a7eb05cf4cfafd66b9",
+        "android_client_info": {
+          "package_name": "com.mriz.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245928125116-050nosqd4k2nostmieebc9d8td5e8ddi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF3klbXztfLybk6IrAYkOHBxqt9y9kD5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245928125116-050nosqd4k2nostmieebc9d8td5e8ddi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
